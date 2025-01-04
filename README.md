@@ -2,7 +2,7 @@
  
 <img width="960" alt="waitingpage" src="https://github.com/user-attachments/assets/c68c3728-31ed-42bb-affe-f7dbd25ce460" />
 
-In this project, we introduced a blockchain-based electronic voting system that utilizes 
+In this my Final Year Major project, we introduced a blockchain-based electronic voting system that utilizes 
 smart contracts to enable secure and cost-efficient election while guaranteeing voters 
 privacy. Blockchain technology offers a new possibility to overcome the limitations 
 and adoption barriers of electronic voting systems which ensures the election security 
@@ -26,6 +26,7 @@ the registration process.
 
 <img width="947" alt="confirmpartyotp" src="https://github.com/user-attachments/assets/359030dd-7c46-43bc-b503-e9d1c5913b43" />
 
+# Thank You !!!
 
 
    
